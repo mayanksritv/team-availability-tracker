@@ -2,6 +2,9 @@
 
 A responsive, real-time dashboard for managing synthetic team availability.
 
+### Deployed app
+https://team-availability-tracker-nk0g.onrender.com/
+
 ## Features
 
 - MongoDB-backed team member storage
